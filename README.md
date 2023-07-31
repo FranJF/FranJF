@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python and Django.<br>🌱 I’m currently learning Rust and exercising algorithms.
+🔭 I’m currently working with Python and Django.<br>🌱 I’m currently learning Rust and exercising algorithms.
 
 
 ## 🌐 Socials:
