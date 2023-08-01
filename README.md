@@ -1,5 +1,5 @@
 # 💫 About me:
-:computer: Actualmente trabajo con Pyhton y Django.<br>:pencil: Estoy aprendiendo el lenguaje de Rust como hobbie. <br>:telescope: Suelo realizar ejercicios/proyectos por diversion.
+:computer: Actualmente trabajo con Pyhton y Django.<br>:pencil: Estoy aprendiendo Golang y TypeScript como hobbie. <br>:telescope: Suelo realizar ejercicios/proyectos por diversion. 
 
 
 ## 🌐 Socials:
