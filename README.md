@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 Actualmente trabajo con Pyhton y Django.<br>🌱 Estoy aprendiendo el lenguaje de Rust como hobbie. <br>⚡ Suelo realizar ejercicios/proyectos por diversion.
+:computer: Actualmente trabajo con Pyhton y Django.<br>:pencil: Estoy aprendiendo el lenguaje de Rust como hobbie. <br>:telescope: Suelo realizar ejercicios/proyectos por diversion.
 
 
 ## 🌐 Socials:
@@ -15,5 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FranJF&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### :top: Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FranJF&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
