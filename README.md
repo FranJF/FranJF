@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 Actualmente trabajo con Pyhton y Django.<br>🌱 Estoy aprendiendo el lenguaje de Rust como hobbie. <br>🌱 Suelo realizar ejercicios/proyectos por diversion.
+🔭 Actualmente trabajo con Pyhton y Django.<br>🌱 Estoy aprendiendo el lenguaje de Rust como hobbie. <br>⚡ Suelo realizar ejercicios/proyectos por diversion.
 
 
 ## 🌐 Socials:
