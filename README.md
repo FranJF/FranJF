@@ -19,7 +19,7 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 
 ## 💻 Aprendiendo:
 
-[![TypeScript](https://img.shields.io/badge/typescript-0067a5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/typescript-0067a5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Golang](https://img.shields.io/badge/golang-1aa7ec?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 
