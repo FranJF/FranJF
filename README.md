@@ -14,12 +14,12 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 ## 💻 Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
 
-</br>
+<br>
 
 [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
 [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
-</br>
+<br>
 
 [![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
