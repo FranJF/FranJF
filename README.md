@@ -27,9 +27,11 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)()
 
 ## 💻 Aprendiendo:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
+[![Typescript](https://img.shields.io/badge/typescript-0095D5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
+
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
+[![Golang](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=golang&logoColor=white)]()
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=gruvbox&hide_border=true)<br/>
