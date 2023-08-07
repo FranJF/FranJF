@@ -9,7 +9,7 @@ También he conocido a grandes creadores de contenido a los cuales seguir, en es
 Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy interesado en Typescript y Golang.
 
 ## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-javier-castillo-fernandez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
 
 ## 💻 Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
