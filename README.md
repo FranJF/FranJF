@@ -12,11 +12,24 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-javier-castillo-fernandez) 
 
 ## 💻 Tecnologías:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Nvim-00b952?style=for-the-badge&logo=neovim&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
+
+</br>
+
+[![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
+
+[![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=DRF&logoColor=white&labelColor=101010)]()
+
+</br>
+
+[![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+ [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)()
 
 ## 💻 Aprendiendo:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=gruvbox&hide_border=true)<br/>
