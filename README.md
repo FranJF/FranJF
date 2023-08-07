@@ -25,10 +25,10 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranJF&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranJF&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FranJF&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FranJF&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### :top: Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FranJF&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FranJF&limit=5&theme=dark&combine_all_yearly_contributions=true)
