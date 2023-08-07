@@ -18,7 +18,7 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 [![Neovim](https://img.shields.io/badge/Neovim-2a6f21?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
 
 ## 💻 Aprendiendo:
-[![Typescript](https://img.shields.io/badge/typescript-0095D5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/typescript-0095D5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Golang](https://img.shields.io/badge/golang-%23007ACC.svg?style=for-the-badge&logo=golang&logoColor=101010)]()
 
