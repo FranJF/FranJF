@@ -19,7 +19,7 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 
 [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
 
-[![Django-REST](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![Django-REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
 </br>
 
