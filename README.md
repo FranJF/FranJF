@@ -1,5 +1,3 @@
-# 💫 Sobre mi:
-
 Hola, me llamo Fran, y empecé mi camino como desarrollador de software en 2019. Comencé como muchos otros con HTML, CSS y JavaScript.
 
 Desde aquel momento, hace ya 4 años, han cambiado muchas cosas, he perdido y encontrado mi pasión por la programación, he escrito líneas y líneas de código, he leído multitud de libros sobre desarrollo y me he seguido formando constantemente.
@@ -13,15 +11,13 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 
 ## 💻 Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
-
-<br>
-
 [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
 [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
 <br>
 
 [![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Neovim](https://img.shields.io/badge/Neovim-2a6f21?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
 
 ## 💻 Aprendiendo:
 [![Typescript](https://img.shields.io/badge/typescript-0095D5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
