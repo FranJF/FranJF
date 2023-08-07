@@ -24,11 +24,5 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 [![Golang](https://img.shields.io/badge/golang-1aa7ec?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranJF&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FranJF&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### :top: Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FranJF&limit=5&theme=dark&combine_all_yearly_contributions=true)
