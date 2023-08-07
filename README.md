@@ -21,7 +21,7 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 
 </br>
 
-[![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)()
+[![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## 💻 Aprendiendo:
 [![Typescript](https://img.shields.io/badge/typescript-0095D5?style=for-the-badge&logo=typescript &logoColor=white&labelColor=101010)]()
