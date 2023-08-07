@@ -20,7 +20,7 @@ Actualmente llevo trabajando con Python, Django y Django REST 4 años. Estoy muy
 ## 💻 Aprendiendo:
 
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Golang](https://img.shields.io/badge/Golang-339933?style=for-the-badge&logo=golang&logoColor=white&labelColor=101010)]()
+[![Golang](https://img.shields.io/badge/Go-1aa7ec?style=for-the-badge&logo=golang&logoColor=white&labelColor=101010)]()
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=gruvbox&hide_border=true)<br/>
